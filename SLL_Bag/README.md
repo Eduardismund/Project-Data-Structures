@@ -50,3 +50,5 @@ To iterate over the Bag, a current element is initialized with the head and a cu
 ## Tests
 
 The tests are composed of short and extended scenarios designed to target the main aspects and edge cases. The results of the tests are visible as soon as the program finishes its execution.
+
+![image](https://github.com/user-attachments/assets/4bd30b57-e94f-4abf-906b-7b5de5da1b73)
